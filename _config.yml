@@ -1,0 +1,21 @@
+title: Museum Kummersdorf
+email: kummer@bumble.blue
+description: > # this means to ignore newlines until "baseurl:"
+   Der Förderverein Historisch-Technisches Museum Kummerdorf-Gut wurde 1990 als Bürgerveinigung mit dem Ziel gegründet, die Aufarbeitung der Geschichte der Gemeinde Kummersdorf-Gut und der dazugehörigen ehemaligen Heeresversuchstelle Kummersdorf zu erforschen.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems: [bootstrap, autoprefixer-rails, jekyll-assets]
+sass:
+    sass_dir: _sass
+
+# Language setting
+languages: ["en", "de", "fr"]
+default_lang: "de"
+exclude_from_localization: ["javascript", "images", "css"]
+parallel_localization: true
