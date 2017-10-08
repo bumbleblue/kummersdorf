@@ -1816,6 +1816,6 @@ body > .site-header + .container { padding: 60px 15px 0; }
 
 .container { max-width: 720px; }
 
-.site-footer { background-color: #f7f7f9; bottom: 0; height: 60px; line-height: 60px; position: absolute; width: 100%; }
+.site-footer { bottom: 0; height: 60px; line-height: 60px; position: absolute; width: 100%; }
 .site-footer ul { display: inline-block; padding: 0; margin: 0; }
 .site-footer ul > li { display: inline-block; list-style-type: none; }

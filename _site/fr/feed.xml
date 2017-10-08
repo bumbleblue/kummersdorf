@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Museum Kummersdorf</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>Der Förderverein Historisch-Technisches Museum Kummerdorf-Gut wurde 1990 als Bürgerveinigung mit dem Ziel gegründet, die Aufarbeitung der Geschichte der Gemeinde Kummersdorf-Gut und der dazugehörigen ehemaligen Heeresversuchstelle Kummersdorf zu erforschen.
 </description>
     <link>/</link>
     <atom:link href="/fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Sep 2017 16:35:25 +0200</pubDate>
-    <lastBuildDate>Fri, 08 Sep 2017 16:35:25 +0200</lastBuildDate>
+    <pubDate>Sun, 08 Oct 2017 15:26:48 +0200</pubDate>
+    <lastBuildDate>Sun, 08 Oct 2017 15:26:48 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>

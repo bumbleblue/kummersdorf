@@ -2,6 +2,15 @@
      padding-top: 54px;
  }
 
+ a {
+     color: #d0e1aa;
+ }
+
+
+ a:hover {
+     color: #7c9c6b;
+ }
+
  @media (min-width: 992px) {
      body {
          padding-top: 56px;
@@ -31,3 +40,17 @@
  .portfolio-item {
      margin-bottom: 30px;
  }
+
+.back-dark {
+    background-color: #727178;
+}
+
+.back-yellow {
+    color: #c8c264;
+}
+
+/*green: 7c9c6b
+blue: 15737d
+yellow: c8c264
+dark: 727178
+light: d0e1aa*/
